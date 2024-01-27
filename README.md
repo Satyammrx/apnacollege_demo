@@ -1,3 +1,3 @@
 # apnacollege_demo
 This is my private Git Repository <br>
-Author -  <h1>Satyam mishra<h/1>
+Author -  <h1>Satyam mishra
